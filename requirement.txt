@@ -1,0 +1,7 @@
+transformers
+pymysql
+mysqlclient
+cryptography
+scipy
+torch
+Django
